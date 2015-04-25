@@ -8,7 +8,7 @@ See [`src/ifttt-notifier.coffee`](src/ifttt-notifier.coffee) for full documentat
 
 In hubot project repo, run:
 
-`npm install hubot-ifttt-notifier --save`
+`npm install git@github.com:1syo/hubot-ifttt-notifier.git --save`
 
 Then add **hubot-ifttt-notifier** to your `external-scripts.json`:
 
@@ -16,11 +16,4 @@ Then add **hubot-ifttt-notifier** to your `external-scripts.json`:
 [
   "hubot-ifttt-notifier"
 ]
-```
-
-## Sample Interaction
-
-```
-user1>> hubot hello
-hubot>> hello!
 ```
