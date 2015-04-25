@@ -9,14 +9,16 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-ifttt-notifier.git"
+    "url": "git://github.com/1syo/hubot-ifttt-notifier.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-ifttt-notifier/issues"
+    "url": "https://github.com/1syo/hubot-ifttt-notifier/issues"
   },
 
   "dependencies": {
+    "underscore": ">= 1.6.0",
+    "xmlrpc": ">= 1.2.0"
   },
 
   "peerDependencies": {
